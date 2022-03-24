@@ -5,13 +5,13 @@
 
   - 💻 IT-Apprentice @buhlergroup
   - 🏠 Switzerland
-  - 🎂 15 y/o
+  - 🎂 16 y/o
 
 ---
 ### My Projects
 
-  - Lorem Ipsum
-  - Lorem Ipsum
+  - Personal website
+  - ReactJS
   - Lorem Ipsum
   - Lorem Ipsum
 
