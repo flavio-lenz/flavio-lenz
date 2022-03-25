@@ -12,7 +12,5 @@
 
   - Personal website
   - ReactJS
-  - Lorem Ipsum
-  - Lorem Ipsum
 
 ---
