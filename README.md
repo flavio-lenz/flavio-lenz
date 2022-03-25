@@ -10,7 +10,7 @@
 ---
 ### My Projects
 
-  - Personal website
-  - ReactJS
+  - 🪟 Personal website
+  - 🖥️ ReactJS
 
 ---
