@@ -12,5 +12,6 @@
 
   - 🪟 Personal website
   - 🖥️ ReactJS
+  - 🌍 IOT
 
 ---
