@@ -11,7 +11,6 @@
 ### My Projects
 
   - 🪟 Personal website
-  - 🖥️ ReactJS
   - 🌍 IOT
 
 ---
