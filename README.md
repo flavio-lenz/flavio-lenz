@@ -11,6 +11,6 @@
 ### My Projects
 
   - 🪟 Personal website
-  - 🌍 IOT
+  - 🌍 IoT
 
 ---
