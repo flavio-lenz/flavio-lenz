@@ -10,6 +10,6 @@
 ---
 ### My Projects
 
-  - 🪟 Personal website
+  - 🌍 Personal website
 
 ---
