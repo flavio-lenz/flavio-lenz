@@ -10,7 +10,7 @@
 ---
 ### My Projects
 
-  - 🌍 Personal website
+  - 🌍 Personal website: https://flavio-lenz.ch
   - 💻 DigitalSpaceDesk
 
 ---
