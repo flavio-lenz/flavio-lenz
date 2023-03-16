@@ -5,7 +5,7 @@
 
   - 💻 IT-Apprentice @buhlergroup
   - 🏠 Switzerland
-  - 🎂 16 y/o
+  - 🎂 17 y/o
 
 ---
 ### Current projects:
