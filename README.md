@@ -11,7 +11,6 @@
 ### Current projects:
 
   - 🌍 Personal website: https://flavio-lenz.ch
-  - 💻 Digital Space Desk: https://github.com/DigitalSpaceDesk
 
 ---
 
