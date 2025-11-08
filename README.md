@@ -1,7 +1,7 @@
 ## Welcome to my GitHub 👋
 ---
 ### About me
-  - 💻 IT-Apprentice @buhlergroup
+  - 💻 Design System Developer @buhlergroup
   - 🏠 Switzerland
   - 🎂 19 y/o
 ---
