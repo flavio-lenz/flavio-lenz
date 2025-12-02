@@ -28,4 +28,4 @@
 ---
 ![Flavio Lenz's GitHub streak](https://gh-streak-stats-dun.vercel.app/?user=leflxvio&theme=blue-green&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat)<br>
 ![Flavio Lenz's GitHub stats](https://gh-readme-stats-zeta.vercel.app/api?username=leflxvio&theme=blue-green&count_private=true&include_all_commits=true&show_icons=true&hide=prs,issues)<br>
-<!-- ![Flavio Lenz's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=leflxvio&theme=blue-green&layout=compact) -->
+![Flavio Lenz's Top Languages](https://gh-readme-stats-zeta.vercel.app/api/top-langs/?username=leflxvio&theme=blue-green&layout=compact)
