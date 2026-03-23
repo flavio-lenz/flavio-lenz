@@ -3,7 +3,7 @@
 ### About me
   - 💻 Design System Developer @buhlergroup
   - 🏠 Switzerland
-  - 🎂 19 y/o
+  - 🎂 20 y/o
 ---
 
 ### Current projects:
